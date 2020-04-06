@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Bot
+namespace SLAB.Bot
 {
     class Program
     {

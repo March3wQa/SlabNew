@@ -1,2 +1,2 @@
-worker: cd $HOME/heroku_output && ./Bot
-web: cd $HOME/heroku_output && ./Web
+worker: cd $HOME/heroku_output && ./SLAB.Bot
+web: cd $HOME/heroku_output && ./SLAB.Web
