@@ -4,10 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC8E70C9-1965-4645-A4DD-CE96DE900942}"
-	ProjectSection(SolutionItems) = preProject
-		.deployment = .deployment
-		Procfile = Procfile
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLAB.Bot", "SLAB.Bot\SLAB.Bot.csproj", "{58321944-6FFC-4C8D-9F23-EFE01727490A}"
 EndProject
