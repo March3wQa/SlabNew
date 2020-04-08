@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SLAB.Bot\SLAB.Bot.csproj" />
+  </ItemGroup>
+
 
 
 </Project>

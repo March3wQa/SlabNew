@@ -1,12 +1,13 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace SLAB.Bot
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static Task Main()
         {
-            Console.WriteLine("Hello World!");
+            return Startup.RunAsync();
         }
     }
 }
